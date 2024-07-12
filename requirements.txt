@@ -1,0 +1,6 @@
+aiogram==3.10.0
+python-dotenv==1.0.1
+langchain
+langchain_community
+openai
+langchain_openai
