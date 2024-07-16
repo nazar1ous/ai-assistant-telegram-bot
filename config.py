@@ -11,7 +11,7 @@ credentials = {
 settings = {
     "chatgpt_model": "gpt-4o",
     "gpt_4_model_max_tokens": 4096,
-    "chatgpt_temperature": 0.7,
+    "chatgpt_temperature": 0.1,
     "openai_timeout": 5000,
     "max_retries": 2,
     "seed": 42,
